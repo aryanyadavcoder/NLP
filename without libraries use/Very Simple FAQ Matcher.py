@@ -5,7 +5,7 @@ faqs = {
     "certificate": "Certificate details will be shared by the teacher."
 }
 
-question = "Do you teach python in this course?"
+question = "is used"
 question = question.lower()
 
 answer_found = False

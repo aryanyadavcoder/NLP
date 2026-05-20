@@ -8,4 +8,10 @@ faqs = {
 question = input("Ask your question :")
 question = question.lower()
 answer_found = False
-for key
+for keyword in faqs:
+    if keyword in question:
+        print(faqs[keyword])
+        answer_found = True
+        break
+if answer_found == False:
+    print("Please contact Champak Roy for detail.")    
