@@ -1,0 +1,17 @@
+Topic,Subtopic,Explanation,Example Code
+Introduction to C,What is C?,C is a procedural programming language developed by Dennis Ritchie.,"#include <stdio.h>
+int main(){printf(""Hello""); return 0;}"
+Variables,Variable Declaration,Variables store data values in memory.,int age = 20;
+Data Types,Basic Data Types,"Common data types are int, float, char, double.",float price = 99.5;
+Operators,Arithmetic Operators,Used for mathematical calculations.,int sum = a + b;
+Conditional Statements,if Statement,Executes code when condition is true.,"if(a>0){ printf(""Positive""); }"
+Loops,for Loop,Repeats code multiple times.,"for(int i=0;i<5;i++){ printf(""%d"",i); }"
+Functions,Function Basics,Functions divide programs into reusable blocks.,"int add(int a,int b){ return a+b; }"
+Arrays,1D Arrays,Arrays store multiple values of same type.,"int arr[5]={1,2,3,4,5};"
+Strings,String Handling,Strings are arrays of characters ending with \0.,"char name[] = ""Aryan"";"
+Pointers,Pointer Basics,Pointers store memory addresses.,int x=10; int *p=&x;
+Structures,Structure Basics,Structures group different data types.,struct Student{char name[20]; int age;};
+File Handling,File Operations,Used to read/write files.,"FILE *fp=fopen(""a.txt"",""w"");"
+Dynamic Memory,malloc(),Allocates memory dynamically.,int *p=(int*)malloc(5*sizeof(int));
+Preprocessor,Macros,Macros replace values before compilation.,#define PI 3.14
+Recursion,Recursive Functions,Function calling itself.,int fact(int n){ if(n==0)return 1; return n*fact(n-1);}

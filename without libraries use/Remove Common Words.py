@@ -6,4 +6,4 @@ for word in words:
     if word not in common_words:
         importent_words.append(word)
 print("All words :",word)
-print("Important word :",importent_words)
+print("Important word :",importent_words)       

@@ -1,0 +1,60 @@
+Topic,Definition,Example
+Data Science,Data se useful insights aur knowledge nikalne ka field,Sales Prediction
+Artificial Intelligence,Machine ko intelligent behavior sikhana,AI Chatbot
+Machine Learning,Computer ko data se automatically learn karana,Spam Detection
+Deep Learning,Neural networks based advanced learning,Image Recognition
+Neural Network,Human brain inspired computing model,Face Detection
+NLP,Text aur language processing AI,Google Translate
+Computer Vision,Image aur video understanding AI,Self Driving Car
+Big Data,Bahut large datasets ka handling,Social Media Data
+Data Analytics,Data ka analysis karke decisions lena,Business Reports
+Data Mining,Useful patterns find karna,Customer Behavior Analysis
+Structured Data,Table format data,Excel Sheet
+Unstructured Data,Non-table data,Images and Videos
+Semi Structured Data,Partial structure wala data,JSON
+Dataset,Data collection ka group,CSV File
+Feature,Input variable for model,Age and Salary
+Label,Expected output,House Price
+Training Data,Model training ke liye data,Past Records
+Testing Data,Model testing data,Exam Questions
+Validation Data,Model tuning data,Practice Set
+Supervised Learning,Labeled data se learning,Classification
+Unsupervised Learning,Without labels learning,Clustering
+Reinforcement Learning,Reward based learning,Game AI
+Classification,Category prediction,Spam or Not Spam
+Regression,Continuous value prediction,House Price Prediction
+Clustering,Similar data grouping,Customer Segmentation
+K Means Clustering,Popular clustering algorithm,Customer Groups
+Decision Tree,Tree based ML algorithm,Loan Approval
+Random Forest,Multiple decision trees combination,Fraud Detection
+Support Vector Machine,Classification algorithm,Image Classification
+Naive Bayes,Probability based algorithm,Email Spam Detection
+Linear Regression,Straight line prediction model,Price Prediction
+Logistic Regression,Classification algorithm,Pass or Fail Prediction
+Overfitting,Model ka extra memorization,Poor real-world performance
+Underfitting,Model ka weak learning,Bad Predictions
+Accuracy,Correct predictions percentage,90 Percent Accuracy
+Precision,Correct positive predictions,Fraud Detection
+Recall,Actual positive detection,Disease Detection
+F1 Score,Precision aur recall balance,ML Evaluation
+Confusion Matrix,Prediction evaluation table,Classification Result
+Python,Popular data science language,Automation
+Pandas,Data analysis Python library,CSV Handling
+NumPy,Numerical Python library,Array Operations
+Matplotlib,Python visualization library,Graphs
+Scikit Learn,Machine learning Python library,Model Training
+TensorFlow,Deep learning framework,Neural Networks
+PyTorch,AI framework,Research Models
+SQL,Database query language,Data Retrieval
+MySQL,Popular relational database,Website Backend
+CSV,Comma separated values file,Dataset Storage
+JSON,Key value data format,API Response
+Chatbot,Conversation AI,Customer Support Bot
+Cosine Similarity,Text similarity measurement,Chatbot Matching
+TF IDF,Important word scoring,Search Engine
+Embedding,Text numerical representation,Semantic Search
+Prompt Engineering,AI instruction writing,Better AI Output
+Fine Tuning,Model custom training,Custom Chatbot
+Generative AI,New content generation,ChatGPT
+LLM,Large language model,AI Assistant
+Transformer,Advanced NLP architecture,GPT Model

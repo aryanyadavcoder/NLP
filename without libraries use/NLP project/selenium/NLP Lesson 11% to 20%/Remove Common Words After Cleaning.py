@@ -12,4 +12,3 @@ Sentence = "Champak Roy is teaching AI and ML in the class."
 cleaned = clean_text(Sentence)
 word = cleaned.split()
 important_word = []
-
